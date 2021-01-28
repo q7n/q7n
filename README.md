@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/q7n?template=terminal&activity=1&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FNew_York&config.animated=true)
+![Metrics](https://metrics.lecoq.io/q7n?template=classic&activity=1&isocalendar=1&languages=1&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FNew_York&config.animated=true)
